@@ -42,14 +42,14 @@ First-year engineering student at ENSIAS passionate about Data Science and Machi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=yassirznaina&show_icons=true&theme=tokyonight&title_color=FFFDD0&icon_color=FFFDD0&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=yassirznaina&layout=compact&theme=tokyonight&title_color=FFFDD0&icon_color=FFFDD0&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=yassirznaina&show_icons=true&theme=tokyonight&title_color=FFFDD0&icon_color=FFFDD0&text_color=84A59D&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=yassirznaina&layout=compact&theme=tokyonight&title_color=FFFDD0&icon_color=FFFDD0&text_color=84A59D&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yassirznaina&bg_color=00000000&color=FFFDD0&line=FFFDD0&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yassirznaina&bg_color=00000000&color=FFFDD0&line=FFFDD0&point=84A59D&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
